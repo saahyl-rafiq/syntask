@@ -1,0 +1,4 @@
+*.pyc
+/.vscode
+syntask/__pycache__
+syntask/syntask/spiders/__pycache__
